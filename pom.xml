@@ -149,11 +149,11 @@
             <artifactId>log4j-over-slf4j</artifactId>
             <version>${slf4j-version}</version>
         </dependency>
-		<dependency>
-			<groupId>org.logback-extensions</groupId>
-			<artifactId>logback-ext-spring</artifactId>
-			<version>${logback-sprint-vesrion}</version>
-		</dependency>
+        <dependency>
+            <groupId>org.logback-extensions</groupId>
+            <artifactId>logback-ext-spring</artifactId>
+            <version>0.1.2</version>
+        </dependency>
         <!-- test -->
         <dependency>
             <groupId>org.testng</groupId>
